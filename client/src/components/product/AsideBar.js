@@ -69,7 +69,7 @@ function AsideBar(props) {
             </div>
             <ul className="checkbox-dropdown-list">
               <li className="checkbox">1</li>
-              <li className="checkbox">1</li>
+              <li className="checkbox">2</li>
               <li className="checkbox">1</li>
               <li className="checkbox">1</li>
             </ul>
