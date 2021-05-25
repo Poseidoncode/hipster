@@ -2,7 +2,7 @@
 文藝活動電商平台 「文青地圖 HIPSTER」
 
 ## 網站開發者
-* 祖欣  
+* [Jeanzulin](https://github.com/Jeanzulin "Title")  
 * 甲二
 * 宗侃
 * 柏翰
