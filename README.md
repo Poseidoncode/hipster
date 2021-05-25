@@ -2,12 +2,12 @@
 文藝活動電商平台 「文青地圖 HIPSTER」
 
 ## 網站開發者
-* [Jeanzulin](https://github.com/Jeanzulin "Title")  
-* 甲二
-* 宗侃
-* 柏翰
-* 紹軒
-* 育嘉
+* [Jeanzulin](https://github.com/Jeanzulin)  
+* [Faketwo](https://github.com/Faketwo)
+* [Zenoah](https://github.com/zenoah82000)
+* [asd24971234](https://github.com/asd24971234)
+* [Poseidon](https://github.com/Poseidoncode)
+* [Yu-Chia](https://github.com/Yu-Chia)
 
 ## 使用技術
 * 基礎技術: HTML5(websocket) + SASS
