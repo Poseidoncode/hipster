@@ -1,7 +1,7 @@
 # 資策會 MFEE07 大專題
 文藝活動電商平台 「文青地圖 HIPSTER」
 
-[image]([https://github.com/Poseidoncode/rapidTestMap/blob/main/public/assets/mapimg.png?raw=true](https://i.imgur.com/fXFXF5R.png)
+> ![image](https://i.imgur.com/fXFXF5R.png)
 
 ## 網站開發者
 * [Jeanzulin](https://github.com/Jeanzulin)  
